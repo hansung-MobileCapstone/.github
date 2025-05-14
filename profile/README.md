@@ -27,12 +27,12 @@
 ---
 
 ## 🛠️ 주요 적용 기술 및 구조
-![1조_이미지_주요 적용 기술 및 구조](https://github.com/user-attachments/assets/d15381e1-aeb1-4a52-af2f-f2a5d0572aaf)
+<img width="572" alt="주요 적용 기술 및 구조" src="https://github.com/user-attachments/assets/9baf8875-0600-422c-9069-0a69af7b5eff" />
 
 ---
 
 ## 📸 작품 소개 사진
-![1조_이미지_작품 소개 사진](https://github.com/user-attachments/assets/773f629c-40b5-465e-ae21-cd2ad33dc542)
+![작품 소개 사진](https://github.com/user-attachments/assets/80f93d39-258b-4cf6-ada0-1ee85b6177e2)
 
 ---
 
