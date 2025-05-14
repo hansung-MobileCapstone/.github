@@ -32,7 +32,7 @@
 ---
 
 ## 📸 작품 소개 사진
-![작품 소개 사진](https://github.com/user-attachments/assets/80f93d39-258b-4cf6-ada0-1ee85b6177e2)
+![작품 소개 사진](https://github.com/user-attachments/assets/2f1ea241-7160-4322-abeb-984cc64c3712)
 
 ---
 
