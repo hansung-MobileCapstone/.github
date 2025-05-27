@@ -11,7 +11,7 @@ PlantyNote는 식물 관리에 어려움을 겪는 사용자들을 위해 개발
 ---
 
 ## 🎬 시연 영상
-[PlantyNote 시연 영상 보기](https://youtube.com/shorts/ByJ03V01YRc?si=4qGLvoeWsRvLTYfT)
+[▶ 시연 영상 보러가기](https://youtube.com/shorts/ByJ03V01YRc?si=4qGLvoeWsRvLTYfT)
 
 ---
 
